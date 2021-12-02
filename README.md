@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fredy045
+- 👀 I’m interested in computer science and music
+- 🌱 I’m currently learning Full stack development
+- 💞️ I’m looking to collaborate on Python projects
+- 📫 How to reach me jrodriguezg045@gmail.com
